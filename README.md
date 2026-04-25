@@ -17,9 +17,6 @@
 - Building web applications with Next.js  
 - Improving backend development  
 - Learning system-level programming
-- 
-- ## 🚀 Current Focus
-
 - Learning Node.js and Express  
 - Building REST APIs  
 - Practicing JavaScript projects  
