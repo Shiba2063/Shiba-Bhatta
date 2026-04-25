@@ -1,4 +1,4 @@
-# Shiba-Bhatta
+# Shiba Bhatta
 
 ## 💻 Tech Stack
 
