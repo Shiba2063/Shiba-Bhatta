@@ -24,15 +24,7 @@
 
 - ---
 
-## 💻 Tech Stack
-(badges here)
 
----
-
-## 🚀 Current Focus
-(bullet list here)
-
----
 ## 🧑‍💻 Tech Stack  
 ## 🚀 Current Focus  
 ## 📊 GitHub Stats  
